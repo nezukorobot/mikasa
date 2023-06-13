@@ -287,8 +287,7 @@ PL_B_10 : "🏘 Play Group's Top 10 Tracks"
 PL_B_11 : "👤 Play Personal Top 10 Tracks"
 
 #Settings
-ST_B_1 : "🔊 Aud Quality"
-ST_B_ST_B_1 : "🔊 Качество звука"
+ST_B_1 : "🔊 Качество звука"
 ST_B_2 : "🎥 Качество видео"
 ST_B_3 : "🎩 Авторизованные пользователи"
 ST_B_4 : "📱 Панель управления"
